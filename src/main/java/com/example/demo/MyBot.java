@@ -13,8 +13,8 @@ import static com.example.demo.utils.Utils.isMessageEquals;
 @Component
 public class MyBot extends TelegramLongPollingBot {
 
-    private static final String BOT_USERNAME = "LaunchStatBot";
-    private static final String BOT_TOKEN = "5294263061:AAEyO3ejpDsqiVR9w5ISV9v0RQqR-_P-l8A";
+    private static final String BOT_USERNAME = "";
+    private static final String BOT_TOKEN = "";
     private String launchId;
 
 //    @Autowired
